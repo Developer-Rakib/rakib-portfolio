@@ -7,7 +7,6 @@ import Home from './Components/Home/Home';
 import Portfolio from './Components/Portfolio/Portfolio';
 import {BsFillArrowUpSquareFill} from 'react-icons/bs';
 import MySkills from './Components/MySkills/MySkills';
-// import Testimonial from './Components/Testimonial/Testimonial';
 import { Toaster } from 'react-hot-toast';
 import Blogs from './Components/Blogs/Blogs';
 
