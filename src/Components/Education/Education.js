@@ -6,7 +6,6 @@ const Education = () => {
         <section class="education-container" id="education">
 
             <h1 class="heading"><span>my </span> education </h1>
-
             <div class="box-container">
 
                 <Bounce duration={1500} left>
