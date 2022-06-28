@@ -24,7 +24,6 @@ const Education = () => {
 
                 <Bounce duration={1500} top>
                     <div>
-
                         <div class="education">
                             <i class="fas fa-graduation-cap"></i>
                             <span>2021</span>
@@ -39,7 +38,6 @@ const Education = () => {
 
                 <Bounce duration={1500} right>
                     <div>
-
                         <div class="education">
                             <i class="fas fa-graduation-cap"></i>
                             <span>2016</span>
