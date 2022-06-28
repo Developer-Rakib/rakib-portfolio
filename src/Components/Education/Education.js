@@ -22,8 +22,6 @@ const Education = () => {
                     </div>
                 </Bounce>
 
-
-
                 <Bounce duration={1500} top>
                     <div>
 
